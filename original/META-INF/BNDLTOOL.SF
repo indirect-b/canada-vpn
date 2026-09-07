@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: a3xow/nR1jkXvKvz6U3+/nExFhQ=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: xrh+GYvlo3tyxCDUYM5My9usCS8=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: 79n2o/kISKmml2OcYV4CAqOlYzQ=
+
+Name: lib/arm64-v8a/libdartjni.so
+SHA1-Digest: b9o7c47MiVrghbml7rd14b7AB2o=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: 2QroeYLrBWw5bbYB9vLjZMnYZKg=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: 5Xc7cJ/tJysKU/jXquXlJKz88R8=
+
+Name: lib/arm64-v8a/libopenvpn.so
+SHA1-Digest: wdLDjrsaEcKIfDHWxJuadIRIU4w=
+
+Name: lib/arm64-v8a/libopvpnutil.so
+SHA1-Digest: DLk5RlaqILfI3JMbYiEclt7DE0I=
+
+Name: lib/arm64-v8a/libovpnexec.so
+SHA1-Digest: M7Q746U75clX3GML+zjdnQAS7WM=
+
+Name: lib/arm64-v8a/librive_native.so
+SHA1-Digest: mHqWMj5PkLyEFQFLXkIAgQoTG8Q=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

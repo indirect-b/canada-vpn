@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ejmqh8Jeo3hA9a58DiP/rd4UVSA=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: Odwvd0G3+mJGKpKARDTnm/FGs1c=
+
+Name: lib/arm64-v8a/libdartjni.so
+SHA1-Digest: bk7WQu6CBZXxZAkwQM3aIfLLDKc=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: CV4WlQQMDBlkJLNYR0xKgZjKOsk=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: 8I2q1D4XBI7DiQ72BC/viJZaHZc=
+
+Name: lib/arm64-v8a/libopenvpn.so
+SHA1-Digest: u89mBNpJNyk9sNQ5aUEYKQJR6cs=
+
+Name: lib/arm64-v8a/libopvpnutil.so
+SHA1-Digest: SHqsMVpBQRavrY0QRbVZQR5rWHY=
+
+Name: lib/arm64-v8a/libovpnexec.so
+SHA1-Digest: 3k5AwLFEZX1hEvN6P9pmdSOpOms=
+
+Name: lib/arm64-v8a/librive_native.so
+SHA1-Digest: 6lfmMYfcX+SgbAVy0LMvxgb68Dw=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

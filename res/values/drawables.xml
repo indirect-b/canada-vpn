@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_menu_close_clear_cancel">@android:drawable/ic_menu_close_clear_cancel</item>
+    <item type="drawable" name="ic_menu_pause">@android:drawable/ic_media_pause</item>
+    <item type="drawable" name="ic_menu_play">@android:drawable/ic_media_play</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="APKTOOL_DUMMY_1c" />
+    <item type="drawable" name="APKTOOL_DUMMY_56" />
+    <item type="drawable" name="APKTOOL_DUMMY_7b" />
+    <item type="drawable" name="APKTOOL_DUMMY_7c" />
+    <item type="drawable" name="APKTOOL_DUMMY_7d" />
+    <item type="drawable" name="APKTOOL_DUMMY_7e" />
+    <item type="drawable" name="APKTOOL_DUMMY_7f" />
+    <item type="drawable" name="APKTOOL_DUMMY_80" />
+    <item type="drawable" name="APKTOOL_DUMMY_81" />
+    <item type="drawable" name="APKTOOL_DUMMY_82" />
+    <item type="drawable" name="APKTOOL_DUMMY_84" />
+    <item type="drawable" name="APKTOOL_DUMMY_85" />
+    <item type="drawable" name="APKTOOL_DUMMY_89" />
+    <item type="drawable" name="APKTOOL_DUMMY_8a" />
+    <item type="drawable" name="APKTOOL_DUMMY_8b" />
+    <item type="drawable" name="APKTOOL_DUMMY_8c" />
+    <item type="drawable" name="APKTOOL_DUMMY_8d" />
+</resources>

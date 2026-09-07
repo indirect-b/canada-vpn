@@ -1,0 +1,78 @@
+.class final Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;
+.super Lkotlin/jvm/internal/l;
+.source "SourceFile"
+
+# interfaces
+.implements Lq5/l;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay;->onCreate(Landroid/os/Bundle;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lkotlin/jvm/internal/l;",
+        "Lq5/l;"
+    }
+.end annotation
+
+
+# static fields
+.field public static final INSTANCE:Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;
+
+    invoke-direct {v0}, Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;-><init>()V
+
+    sput-object v0, Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;->INSTANCE:Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 1
+
+    const/4 v0, 0x1
+
+    invoke-direct {p0, v0}, Lkotlin/jvm/internal/l;-><init>(I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public bridge synthetic invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    .line 2
+    check-cast p1, Lc/r;
+
+    invoke-virtual {p0, p1}, Lcom/unity3d/ads/adplayer/FullScreenWebViewDisplay$onCreate$7;->invoke(Lc/r;)V
+
+    sget-object p1, Le5/k;->a:Le5/k;
+
+    return-object p1
+.end method
+
+.method public final invoke(Lc/r;)V
+    .locals 1
+
+    .line 1
+    const-string v0, "$this$addCallback"
+
+    invoke-static {p1, v0}, Lkotlin/jvm/internal/k;->e(Ljava/lang/Object;Ljava/lang/String;)V
+
+    return-void
+.end method
